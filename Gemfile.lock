@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    rledger (0.1.0)
+      parslet (~> 1.4)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.14.4)
+    parslet (1.8.2)
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  minitest (~> 5.0)
+  rake (~> 13.0)
+  rledger!
+
+BUNDLED WITH
+   2.2.22
